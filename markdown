@@ -50,3 +50,4 @@ MediCalc is a Java library designed to perform common medical calculations. It p
 ### Usage
 
 Here's a simple example demonstrating how to use the MediCalc library:
+
